@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Danielgolon1s_Project",
+    "slug": "Danielgolon1s_Project",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Danielgolon1s_Project"
+}
